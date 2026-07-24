@@ -4,12 +4,16 @@
 
 **Name:** Shoaib
 
+
+
 ---
 
 ## 🏅 Rank
 
 **Python Recruit**
-
+🏅 Rank: Python Recruit
+⭐ Level: 1
+⚡ XP: 20 / 100
 ---
 
 ## ⭐ Level
